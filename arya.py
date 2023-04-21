@@ -1,5 +1,5 @@
 #program to print name ten times. 
 count =0
 while count<=10:
-    print('binod')
+    print('arya')
     count+=1
