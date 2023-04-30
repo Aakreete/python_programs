@@ -5,4 +5,3 @@ try:
     print(result)
 except:
     print("can't compute the factorial of negative numbers cause of some reason")
-    
