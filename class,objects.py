@@ -11,6 +11,7 @@ display("Anapurni")
 
 class person:
     pass
-#main
+#main p is the object
 p=person()
 print(p)
+#data are called fields in class and functionality are called methods in class.
