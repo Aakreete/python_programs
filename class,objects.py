@@ -6,12 +6,12 @@ def display(name):
     print("hello", name)
     return
 #main
-display("Aakriti")
+display("Aiya")
 display("Anapurni")
 
-class person:
+class Person:
     pass
 #main p is the object
-p=person()
+p=Person()
 print(p)
 #data are called fields in class and functionality are called methods in class.

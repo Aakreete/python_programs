@@ -1,4 +1,4 @@
 count=1
 while count <=10:
-    print("aakriti")
+    print("ila")
     count=count+1

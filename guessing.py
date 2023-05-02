@@ -1,7 +1,7 @@
 #this is a guessing game
 print("Welcome guys")
-aakriti=input("Guess the number: ")
-guess=int(aakriti)
+aiya=input("Guess the number: ")
+guess=int(aiya)
 if guess==5:
     print(" Congratulationss !!you won!")
 else:

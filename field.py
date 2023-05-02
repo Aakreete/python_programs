@@ -15,7 +15,7 @@ class student:
         print("student name:", self.name)
         print("student roll no.", self.rollno)
         print("college:", student.college)
-student1=student('02', 'aakriti')
+student1=student('02', 'aiya')
 student1.display()
 student2=student('03', 'arya')
 student2.display()

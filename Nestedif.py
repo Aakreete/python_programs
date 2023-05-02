@@ -1,9 +1,9 @@
 #here it will check the condition and if the condition meets then only it displays the reult.
-name="Aakriti"
+name="aia"
 college="wolverhampton"
-address="albion road"
+address="stephen line"
 marks="69"
-if name=="Aakriti":
+if name=="aia":
     if college=="wolverhampton":
-        if address=="albion road":
-         print("Aakriti of wolverhampton college from albion road got: ",marks, "marks")
+        if address=="stephen line":
+         print("aia of wolverhampton college from stephen line got: ",marks, "marks")
