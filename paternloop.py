@@ -1,4 +1,4 @@
-num=input("enter the number of rows: ")
+num=int(input("enter the number of rows: "))
 row=0
 while row < num:
     star= row+1
